@@ -1,2 +1,23 @@
-# Fifa23-Scouting-Data-Analysis
-This project explores FIFA 23 player data (22,080 players, 6,000+ scouts, Feb 2023) to support Sunderland AFC's scouting process. Using Python, we analyze player attributes, market value, and performance metrics to uncover insights.
+# FIFA 23 Data Analysis
+
+This project explores FIFA 23 player data using Python. The analysis includes statistical insights, visualizations, and performance metrics to identify trends among players.
+
+## Features
+- Data cleaning and preprocessing
+- Statistical analysis of player attributes
+- Visualizations using Matplotlib & Seaborn
+- Insights on player ratings, positions, and skills
+
+## Notebook
+You can explore the full analysis on Deepnote:
+[Deepnote Notebook](https://deepnote.com/app/aplicadas3/IATaller1DavideFlaminiNicolasCuellar-e7d233be-0a34-41d0-b1e2-29a8a6bfe3d9?utm_content=e7d233be-0a34-41d0-b1e2-29a8a6bfe3d9&__run=true)
+
+## Technologies Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook / Deepnote
+
+
+## Author
+**Davide Flamini Cazaran**
+**Nicolas Cuellar Molina**
+
